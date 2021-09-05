@@ -1,0 +1,101 @@
+﻿eisen_1 = {
+    name = "Hardnar"
+    dynasty = dyn_eisen_1
+    dna = hardnar_dna
+    #father =
+	#mother = 
+    religion = "testish"
+	culture = "eisen"
+	martial = 10
+	prowess = 15
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 10
+	learning = 4
+	trait = brave
+	trait = wrathful
+	trait = zealous
+	trait = gregarious
+	trait = education_martial_4
+    trait = physique_good_1
+    trait = intellect_good_1
+    trait = scarred
+    trait = revelerer_1
+    trait = blademaster_1
+    trait = reaver
+    trait = winter_soldier
+    trait = raider
+	disallow_random_traits = yes
+    sexualite = heterosexual
+
+    953.3.8 = {
+        birth = yes
+    }
+
+    985.2.5 = {
+        trait = one_eyed
+        give_nickname = nick_one_eyed
+    }
+}
+
+eisen_2 = {
+    name = "Ragnar"
+    dynasty = dyn_eisen_1
+    father = eisen_1
+	#mother = 
+    religion = "testish"
+	culture = "eisen"
+	martial = 7
+	prowess = 8
+	diplomacy = 0
+	intrigue = 0
+	stewardship = 0
+	learning = 0
+	trait = sadistic
+	trait = wrathful
+	trait = lustful
+	trait = trusting
+	trait = education_martial_1
+    trait = physique_good_1
+    trait = intellect_bad_2
+    trait = giant
+    trait = scarred
+    trait = berserker
+	disallow_random_traits = yes
+    sexualite = heterosexual
+
+    970.7.1 = {
+        birth = yes
+    }
+}
+
+eisen_3 = {
+    name = "Hardald"
+    dynasty = dyn_eisen_1
+    father = eisen_1
+	#mother = 
+    religion = "testish"
+	culture = "eisen"
+	martial = 8
+	prowess = 9
+	diplomacy = 0
+	intrigue = 0
+	stewardship = 0
+	learning = 0
+	trait = temperate
+	trait = patient
+	trait = calm
+	trait = diligent
+	trait = education_martial_3
+    trait = intellect_good_2
+    trait = blademaster_1
+    trait = organizer
+    trait = child_of_concubine
+	disallow_random_traits = yes
+    sexualite = heterosexual
+
+    981.3.16 = {
+        birth = yes
+    }
+}
+
