@@ -1,0 +1,27 @@
+﻿island_group = { 
+	graphical_cultures = {
+		african_building_gfx
+		west_african_group_coa_gfx
+		african_clothing_gfx
+		sub_sahran_unit_gfx
+	}
+	
+	turtle = {
+		color = rgb { 148 0 211 }
+		graphical_cultures = {
+			welsh_coa_gfx
+		}
+		ethnicities = {
+			5 = caucasian_blond
+			30 = caucasian_ginger
+			35 = caucasian_brown_hair
+			30 = caucasian_dark_hair
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_lawgochs_followers" }
+			{ name = "mercenary_company_band_of_horned_welshmen" }
+		}
+	}
+}
+

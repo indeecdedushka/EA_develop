@@ -1,0 +1,59 @@
+﻿#Island
+##Turtle
+
+1 = {	
+	
+	culture = turtle
+	holding = tribal_holding
+}
+
+2 = {	
+	culture = turtle
+	holding = tribal_holding
+}
+
+3 = {	
+	
+
+	culture = turtle
+	holding = tribal_holding
+
+}
+
+4 = {	
+	
+	culture = turtle
+	holding = tribal_holding
+
+
+}
+
+5 = {	
+
+	culture = turtle
+	holding = tribal_holding
+}
+
+6 = {	
+
+	culture = turtle
+	holding = tribal_holding
+
+
+}
+
+7 = {	
+	culture = turtle
+	holding = tribal_holding
+}
+
+8 = {	
+
+	culture = turtle
+	holding = tribal_holding
+}
+9 = {	
+
+	culture = turtle
+	holding = tribal_holding
+}
