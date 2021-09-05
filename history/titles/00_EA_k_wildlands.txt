@@ -1,0 +1,22 @@
+﻿# k_wildlands = {
+# 	1000.1.1 = {
+# 		change_development_level = 
+# 	}
+# }
+
+d_eiseninsel = {
+	985.1.1 = {
+		holder = eisen_1
+	}
+}
+c_eiseninsel = {
+	985.1.1 = {
+		holder = eisen_1
+	}
+}
+
+b_eiseninsel = {
+	985.1.1 = {
+		holder = eisen_1
+	}
+}
