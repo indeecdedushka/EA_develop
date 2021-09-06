@@ -2647,6 +2647,10 @@
 	#	}
 	#}
 
+	########################################
+	############# EA TENENTS ###############
+	########################################
+
 	tenet_spirit_speakers = {
 		icon = core_tenet_bhakti
 	
@@ -2675,7 +2679,7 @@
 		}
 		icon = core_tenet_bhakti
 	
-		 piety_cost = faith_tenet_cost_mid
+		piety_cost = faith_tenet_cost_mid
 	
 		is_shown = {
 			religion_tag = finnae_spirits_religion
@@ -2683,6 +2687,43 @@
 	
 		parameters = {
 			personal_spirit_active = yes
+		}
+	}
+
+	tenet_spirits = {
+		name = {
+			first_valid = {
+				# triggered_desc = {
+				# 	trigger = { religion_tag = hinduism_religion }
+				# 	desc = tenet_bhakti_name
+				# }
+				# desc = tenet_bhakti_patron_god_name
+				desc = tenet_spirits_name
+			}
+		}
+		icon = core_tenet_bhakti
+	
+		piety_cost = faith_tenet_cost_mid
+	
+		is_shown = {
+			religion_tag = finnae_spirits_religion
+		}
+	
+		parameters = {
+			personal_spirit_active = yes
+		}
+	}
+
+	tenet_eisenisel = {
+		icon = core_tenet_runestone
+
+		piety_cost = faith_tenet_cost_mid
+		is_shown = {
+			religion_tag = eisen_religion
+		}
+
+		parameters = {
+			eiseninsel_homeland = yes
 		}
 	}
 }

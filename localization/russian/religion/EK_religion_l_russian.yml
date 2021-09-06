@@ -15,6 +15,20 @@
  spirits_of_nature_adherent:0 "Финнаэ"
  spirits_of_nature_adherent_plural:0 "Финнаэ"
 
+ ##Религия Эйсенов
+ eisen_religion:1 "Тро Эйсен"
+ eisen_religion_adj:1 "Эйсенск"
+ eisen_religion_adherent:1 "Эйсен"
+ eisen_religion_adherent_plural:1 "Эйсены"
+ eisen_religion_desc:1 "Эйсена верят в Великого Эйсена,сотворителя мира."
+
+
+
+ eisen_faith:0 "Тро Эйсен"
+ eisen_faith_adj:0 "Эйсенск"
+ eisen_faith_adherent:0 "Эйсен"
+ eisen_faith_adherent_plural:0 "Эйсены"
+
 
 
 
