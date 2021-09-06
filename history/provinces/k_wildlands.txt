@@ -61,7 +61,7 @@
 #c_eiseninsel
 102 = {
 	culture = eisen
-	religion = testism
+	religion = eisen_faith
 	holding = tribal_holding
 }
 

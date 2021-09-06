@@ -6,3 +6,7 @@
  tenet_spirits_name:0 "Духи-Покровители"
  tenet_spirits_desc:0 ""
  doctrine_parameter_personal_spirit_active:1 ""
+
+ tenet_eisenisel_name:0 "Эйсензел"
+ tenet_eisenisel_desc:0 "Великий Эйсен созидая,сотворил Железный остров в первым,и благословил его неиссякаемыми источниками железной руды.Лишь праведным,коими являются Эйсены,могут свободно жить на этом острове."
+ doctrine_parameter_eiseninsel_homeland:1 ""

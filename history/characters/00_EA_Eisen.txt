@@ -4,7 +4,7 @@
     dna = hardnar_dna
     #father =
 	#mother = 
-    religion = "testish"
+    religion = "eisen_faith"
 	culture = "eisen"
 	martial = 10
 	prowess = 15
@@ -32,6 +32,10 @@
         birth = yes
     }
 
+    982.5.1 = {
+        add_concubine = eisen_4
+    }
+
     985.2.5 = {
         trait = one_eyed
         give_nickname = nick_one_eyed
@@ -43,7 +47,7 @@ eisen_2 = {
     dynasty = dyn_eisen_1
     father = eisen_1
 	#mother = 
-    religion = "testish"
+    religion = "eisen_faith"
 	culture = "eisen"
 	martial = 7
 	prowess = 8
@@ -56,7 +60,7 @@ eisen_2 = {
 	trait = lustful
 	trait = trusting
 	trait = education_martial_1
-    trait = physique_good_1
+    trait = physique_good_2
     trait = intellect_bad_2
     trait = giant
     trait = scarred
@@ -67,35 +71,60 @@ eisen_2 = {
     970.7.1 = {
         birth = yes
     }
+
 }
 
 eisen_3 = {
     name = "Hardald"
     dynasty = dyn_eisen_1
     father = eisen_1
-	#mother = 
-    religion = "testish"
+	mother = eisen_4
+    dna = hardald_dna
+    religion = "eisen_faith"
 	culture = "eisen"
-	martial = 8
+	martial = 5
 	prowess = 9
-	diplomacy = 0
-	intrigue = 0
-	stewardship = 0
-	learning = 0
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	learning = 7
 	trait = temperate
 	trait = patient
 	trait = calm
 	trait = diligent
 	trait = education_martial_3
     trait = intellect_good_2
+    trait = beauty_good_1
     trait = blademaster_1
     trait = organizer
     trait = child_of_concubine
 	disallow_random_traits = yes
     sexualite = heterosexual
 
-    981.3.16 = {
+    983.3.16 = {
         birth = yes
     }
 }
 
+eisen_4 = {
+    name = "GierA_"
+    dna = giera_dna
+    religion = "spirits_of_nature"
+	culture = "finnae"
+    trait = education_learning_2
+    trait = chaste
+    trait = brave
+    trait = compassionate
+    trait = beauty_good_1
+    trait = shrewd
+    sexualite = heterosexual
+
+
+    967.1.14 = {
+        birth = yes
+    }
+
+    994.2.1 = {
+        death = yes
+    }
+}
