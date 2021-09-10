@@ -7,6 +7,10 @@
 @neg_compat_medium = -15
 @neg_compat_low = -5
 
+
+#######################################
+######## Finnae Spirit System #########
+#######################################
 #Spirit Speakers
 spirit_speaker_1 = {
 	index = 500
