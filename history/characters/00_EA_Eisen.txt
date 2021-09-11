@@ -109,6 +109,7 @@ eisen_3 = {
 eisen_4 = {
     name = "GierA_"
     dna = giera_dna
+    female = yes
     religion = "spirits_of_nature"
 	culture = "finnae"
     trait = education_learning_2

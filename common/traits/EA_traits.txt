@@ -1,0 +1,159 @@
+﻿# Standard Values
+@pos_compat_high = 30
+@pos_compat_medium = 15
+@pos_compat_low = 5
+
+@neg_compat_high = -30
+@neg_compat_medium = -15
+@neg_compat_low = -5
+
+
+#######################################
+######## Finnae Spirit System #########
+#######################################
+#Spirit Speakers
+spirit_speaker_1 = {
+	index = 500
+
+	opposites = {
+		spirit_speaker_2
+		spirit_speaker_3
+	}
+
+	physical = yes
+	good = yes
+
+	birth = 0
+	random_creation = 0
+
+	group = spirit_speaker
+	level = 1
+
+	shown_in_ruler_designer = no
+	# ruler_designer_cost = 80
+
+	# desc = {
+	# 	first_valid = {
+	# 		triggered_desc = {
+	# 			trigger = {
+	# 				NOT = { exists = this }
+	# 			}
+	# 			desc = trait_education_learning_2_desc
+	# 		}
+	# 		desc = trait_education_learning_2_character_desc
+	# 	}
+	# }
+}
+
+spirit_speaker_2 = {
+	index = 501
+
+	opposites = {
+		spirit_speaker_1
+		spirit_speaker_3
+	}
+
+	physical = yes
+	good = yes
+
+	birth = 0
+	random_creation = 0
+
+	group = spirit_speaker
+	level = 2
+
+	shown_in_ruler_designer = no
+	# ruler_designer_cost = 80
+
+	# desc = {
+	# 	first_valid = {
+	# 		triggered_desc = {
+	# 			trigger = {
+	# 				NOT = { exists = this }
+	# 			}
+	# 			desc = trait_education_learning_2_desc
+	# 		}
+	# 		desc = trait_education_learning_2_character_desc
+	# 	}
+	# }
+}
+
+spirit_speaker_3 = {
+	index = 502
+
+	opposites = {
+		spirit_speaker_1
+		spirit_speaker_2
+	}
+
+	physical = yes
+	good = yes
+
+	birth = 0
+	random_creation = 0
+
+	group = spirit_speaker
+	level = 3
+
+	shown_in_ruler_designer = no
+	# ruler_designer_cost = 80
+
+	# desc = {
+	# 	first_valid = {
+	# 		triggered_desc = {
+	# 			trigger = {
+	# 				NOT = { exists = this }
+	# 			}
+	# 			desc = trait_education_learning_2_desc
+	# 		}
+	# 		desc = trait_education_learning_2_character_desc
+	# 	}
+	# }
+}
+
+#Spirits 
+#index 503 - ?
+eagle_spirit = {
+	index = 503
+
+	birth = 0
+	random_creation = 0
+
+	shown_in_ruler_designer = no
+}
+
+bear_spirit = {
+	index = 504
+
+	birth = 0
+	random_creation = 0
+
+	shown_in_ruler_designer = no
+}
+
+deer_spirit = {
+	index = 505
+
+	birth = 0
+	random_creation = 0
+
+	shown_in_ruler_designer = no
+}
+
+lynx_spirit = {
+	index = 506
+
+	birth = 0
+	random_creation = 0
+
+	shown_in_ruler_designer = no
+}
+
+eagle_owl_spirit = {
+	index = 507
+
+	birth = 0
+	random_creation = 0
+
+	shown_in_ruler_designer = no
+}
